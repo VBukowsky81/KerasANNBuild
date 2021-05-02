@@ -10,3 +10,21 @@ I wanted to present this great Keras-built ANN example, for demonstration. Artif
 And know how to recreate that - what's most important.
 
 But let's look at this example.
+
+So this is a great basic regression Keras template I use myself. Keras is a just fantastic library for easy to use(and build) ANN's. PyTorch is obviously king of enterprise neural network programming and data science right now(I mean, Tesla, Facebook, etc - almost everybody uses PyTorch for enterprise scale). But Keras shines where it comes to practicing, visualizing, demonstrating, and smaller-sized neural networks - Keras is perfect for learning, and practicing, etc. 
+
+But I will add PyTorch examples, later on, of course.
+
+Anyway, this has all the basic parts - data preprocessing, setting up batch sizes, variables, testing, etc. Building ANN's in Keras is just so clean and neat. Everything is in one line - layer type, number of nodes, weights initilizer, activation function, etc. PyTorch is significantly different, but for a good reasons.
+
+So 100 epochs run, typical regression task - prediciting future data. In this case, we are prediciting banking clients turnaround. Typical data science project.
+
+Anyway, next I will demonstrate CNN's and how they work. Then I will go into RNN's/LSTMs(although, of course they are outdated, long ago, but just for demonstration). Next I will build Attention-based model, and dabble into Transformers.
+
+I am a passionate, passionate fan of this field, and I devour any information I find on this. 
+
+I can go on and on and on about this - optimization algorithms, and their advatages/disadvntages, backpropgation and gradient calculation math, ideal batch sizes and NN setups and configurations, for particular goals. 
+
+GAN's, GPT-3(and other amazing language models), i-GPT, GPT-f, CLIP, Reinforcment Learning/Q-learning, Markov's equations. Deeper math and philosical implication of this incredible field. Like I said - I can go on and on for hours.
+
+I am looking to apply myself somewhere in Data Science.
