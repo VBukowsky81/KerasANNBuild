@@ -1,4 +1,4 @@
-# KerasANNBuild
+# KerasANN
 Basic regression model ANN built using Keras
 
 ![alt text](https://github.com/VBukowsky81/KerasANNBuild/blob/main/KerasANNPic.jpg)
