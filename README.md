@@ -25,6 +25,6 @@ I am a passionate, passionate fan of this field, and I devour any information I 
 
 I can go on and on and on about this - optimization algorithms, and their advantages/disadvantages, backpropagation and gradient calculation math, ideal batch sizes and NN setups and configurations, for particular goals. Etc, etc.
 
-GAN's, GPT-3(and other amazing language models), i-GPT, GPT-f, CLIP, Reinforcment Learning/Q-learning, Markov's equations. Deeper math and philosical implication of this incredible field. Like I said - I can go on and on for hours.
+GAN's, GPT-3(and other amazing language models), i-GPT, GPT-f, CLIP, Reinforcment Learning/Q-learning, Markov's equations. Deeper math and philosical implications of this incredible field. Like I said - I can go on and on for hours.
 
 I am looking to apply myself somewhere in Data Science.
