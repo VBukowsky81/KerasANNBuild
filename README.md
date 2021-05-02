@@ -15,15 +15,15 @@ So this is a great basic regression Keras template I use myself. Keras is a just
 
 But I will add PyTorch examples, later on, of course.
 
-Anyway, this has all the basic parts - data preprocessing, setting up batch sizes, variables, testing, etc. Building ANN's in Keras is just so clean and neat. Everything is in one line - layer type, number of nodes, weights initilizer, activation function, etc. PyTorch is significantly different, but for a good reasons.
+Anyway, this has all the basic parts - data preprocessing, setting up batch sizes, variables, testing, etc. Building ANN's in Keras is just so clean and neat. Everything is in one line - layer type, number of nodes, weights initializer, activation function, etc. PyTorch is significantly different, but for a good reasons.
 
-So 100 epochs run, typical regression task - prediciting future data. In this case, we are prediciting banking clients turnaround. Typical data science project.
+So 100 epochs run, typical regression task - predicting future data. In this case, we are predicting banking clients turnaround. Typical data science project.
 
 Anyway, next I will demonstrate CNN's and how they work. Then I will go into RNN's/LSTMs(although, of course they are outdated, long ago, but just for demonstration). Next I will build Attention-based model, and dabble into Transformers.
 
 I am a passionate, passionate fan of this field, and I devour any information I find on this. 
 
-I can go on and on and on about this - optimization algorithms, and their advatages/disadvntages, backpropgation and gradient calculation math, ideal batch sizes and NN setups and configurations, for particular goals. 
+I can go on and on and on about this - optimization algorithms, and their advantages/disadvantages, backpropagation and gradient calculation math, ideal batch sizes and NN setups and configurations, for particular goals. 
 
 GAN's, GPT-3(and other amazing language models), i-GPT, GPT-f, CLIP, Reinforcment Learning/Q-learning, Markov's equations. Deeper math and philosical implication of this incredible field. Like I said - I can go on and on for hours.
 
