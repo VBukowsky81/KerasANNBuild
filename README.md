@@ -17,7 +17,7 @@ But I will add PyTorch examples, later on, of course.
 
 Anyway, this has all the basic parts - data preprocessing, setting up batch sizes, variables, testing, etc. Building ANN's in Keras is just so clean and neat. Everything is in one line - layer type, number of nodes, weights initializer, activation function, etc. PyTorch is significantly different, but for a good reasons.
 
-So 100 epochs run, typical regression task - predicting future data. In this case, we are predicting banking clients turnaround. Typical data science project.
+So 100 epochs run, typical simple linear regression task - predicting future data. In this case, we are predicting banking clients turnaround. Typical data science project.
 
 Anyway, next I will demonstrate CNN's and how they work. Then I will go into RNN's/LSTMs(although, of course they are outdated, long ago, but just for demonstration). Next I will build Attention-based model, and dabble into Transformers.
 
