@@ -15,7 +15,7 @@ So this is a great basic regression Keras template I use myself. Keras is a just
 
 But I will add PyTorch examples, later on, of course.
 
-Anyway, this has all the basic parts - data preprocessing, setting up batch sizes, variables, testing, etc. Building ANN's in Keras is just so clean and neat. Everything is in one line - layer type, number of nodes, weights initializer, activation function, etc. PyTorch is significantly different, but for a good reasons.
+Anyway, this has all the basic parts - data preprocessing, setting up batch sizes, variables, testing, etc. Building ANN's in Keras is just so clean and neat. Everything is in one line - layer type, number of nodes, weights initializer, activation function, etc. PyTorch is significantly different, but for good reasons.
 
 So 100 epochs run, typical simple linear regression task - predicting future data. In this case, we are predicting banking clients turnaround. Typical data science project.
 
