@@ -19,7 +19,7 @@ Anyway, this has all the basic parts - data preprocessing, setting up batch size
 
 So 100 epochs run, typical simple linear regression task - predicting future data. In this case, we are predicting banking clients turnaround. Typical data science project.
 
-Anyway, next I will demonstrate CNN's and how they work. Then I will go into RNN's/LSTMs(although, of course they are outdated, long ago, but just for demonstration). Next I will build Attention-based model, and dabble into Transformers.
+Anyway, next I will demonstrate CNN's and how they work. Then I will go into RNN's/LSTMs(although, of course they are outdated, long ago, but just for demonstration). And after that, I will build Attention-based model, and dabble into Transformers.
 
 I am a passionate, passionate fan of this field, and I devour any information I find on this. 
 
